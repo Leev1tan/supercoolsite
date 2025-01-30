@@ -1,0 +1,19 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.glass-panel {
+    @apply bg-black/40 border-white/10 rounded-md border p-4 shadow-md backdrop-blur-md;
+}
+
+/* Neon text example */
+.neon-text {
+    color: #08f7fe;
+    text-shadow: 0 0 8px rgba(8, 247, 254, 0.7), 0 0 16px rgba(8, 247, 254, 0.4);
+}
+
+/* Hover glow example */
+.hover-neon:hover {
+    box-shadow: 0 0 10px #08f7fe, 0 0 20px #08f7fe;
+    transform: scale(1.05);
+}

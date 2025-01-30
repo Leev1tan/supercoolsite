@@ -1,0 +1,3 @@
+F:\ispsite\supercoolsite\supercoolsite\obj\Debug\site.njsproj.AssemblyReference.cache
+F:\ispsite\supercoolsite\supercoolsite\obj\Debug\site.njsproj.CoreCompileInputs.cache
+F:\ispsite\supercoolsite\supercoolsite\bin\Microsoft.NodejsTools.WebRole.dll
