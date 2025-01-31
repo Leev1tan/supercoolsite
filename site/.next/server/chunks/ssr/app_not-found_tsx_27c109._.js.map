@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://F%3A/ispsite/supercoolsite/site/app/not-found.tsx"],"sourcesContent":["export default function NotFound() {\r\n    return (\r\n        <div className=\"flex min-h-screen flex-col items-center justify-center bg-black text-white\">\r\n            <h1 className=\"mb-4 text-4xl font-bold\">404</h1>\r\n            <p className=\"text-gray-300\">Page not found.</p>\r\n            <a href=\"/\" className=\"mt-4 text-cyan-400 hover:text-cyan-200\">\r\n                Return Home\r\n            </a>\r\n        </div>\r\n    );\r\n}\r\n"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBACI,8OAAC;QAAI,WAAU;;0BACX,8OAAC;gBAAG,WAAU;0BAA0B;;;;;;0BACxC,8OAAC;gBAAE,WAAU;0BAAgB;;;;;;0BAC7B,8OAAC;gBAAE,MAAK;gBAAI,WAAU;0BAAyC;;;;;;;;;;;;AAK3E"}},
+    {"offset": {"line": 48, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

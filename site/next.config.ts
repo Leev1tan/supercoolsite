@@ -1,7 +1,11 @@
-import type { NextConfig } from "next";
+// next.config.ts
+import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-  /* config options here */
+    // For example, if using experimental features:
+    // experimental: {
+    //   appDir: true,
+    // },
 };
 
 export default nextConfig;

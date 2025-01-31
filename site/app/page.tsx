@@ -1,5 +1,4 @@
-﻿// app/page.tsx
-export default function Home() {
+﻿export default function Home() {
     return (
         <section className="mt-10 flex flex-col items-center justify-center">
             <h1 className="mb-4 animate-pulse text-4xl font-extrabold text-cyan-400 sm:text-6xl">
@@ -11,11 +10,11 @@ export default function Home() {
             </p>
             <a
                 href="/coverage"
-                className="transform rounded-md bg-cyan-600 px-6 py-3 text-lg
-shadow-lg transition-transform hover:bg-cyan-500 hover:scale-105"
+                className="transform rounded-md bg-cyan-600 px-6 py-3 text-lg shadow-lg
+transition-transform hover:scale-105 hover:bg-cyan-500"
             >
                 Check Coverage
             </a>
         </section>
-    )
+    );
 }

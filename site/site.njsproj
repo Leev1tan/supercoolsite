@@ -53,9 +53,11 @@
   <ItemGroup>
     <Folder Include="app\" />
     <Folder Include="app\about\" />
+    <Folder Include="app\api\connect\" />
     <Folder Include="app\coverage\" />
     <Folder Include="app\components\" />
     <Folder Include="app\coverage\[town]\" />
+    <Folder Include="app\api\" />
     <Folder Include="app\services\" />
     <Folder Include="app\services\additional\" />
     <Folder Include="app\services\television\" />
@@ -64,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="app\about\page.tsx" />
+    <TypeScriptCompile Include="app\api\connect\route.ts" />
     <TypeScriptCompile Include="app\components\AnimatedWrapper.tsx" />
     <TypeScriptCompile Include="app\components\ConnectModal.tsx" />
     <TypeScriptCompile Include="app\components\ModalProvider.tsx" />

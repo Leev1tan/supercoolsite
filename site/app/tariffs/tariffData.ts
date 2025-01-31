@@ -2,22 +2,21 @@
 
 export type TariffPlan = {
     speed: string;        // e.g. "до 50 Мбіт/с"
-    isUnlimited: boolean; // e.g. always true for "Безлім"
+    isUnlimited: boolean;
     price: number;        // e.g. 250
 };
 
 export type TariffSet = {
-    id: string;            // unique ID, e.g. "barishivka-private" or "arkadiivka"
-    locationName: string;  // e.g. "Баришівка (Приватні будинки)"
-    region?: string;       // e.g. "Київська область"
+    id: string;
+    locationName: string;
+    region?: string;
     plans: TariffPlan[];
-    images?: string[];     // array of image URLs, or placeholders
 };
 
 export const allTariffSets: TariffSet[] = [
     {
         id: "Barsik",
-        locationName: "Баришівка (Багатоповерхові  будинки) - #1",
+        locationName: "Баришівка (Багатоповерхові будинки)",
         plans: [
             { speed: "до 50 Мбіт/с", isUnlimited: true, price: 180 },
             { speed: "до 100 Мбіт/с", isUnlimited: true, price: 210 },
@@ -26,7 +25,7 @@ export const allTariffSets: TariffSet[] = [
     },
     {
         id: "BarCom",
-        locationName: "Баришівка (Приватні будинки) - #2",
+        locationName: "Баришівка (Приватні будинки)",
         plans: [
             { speed: "до 50 Мбіт/с", isUnlimited: true, price: 250 },
             { speed: "до 100 Мбіт/с", isUnlimited: true, price: 280 },

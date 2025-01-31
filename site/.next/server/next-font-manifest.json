@@ -1,0 +1,13 @@
+{
+  "app": {
+    "[project]/app/page": [
+      "static/media/yMJRMIlzdpvBhQQL_Qq7dy1biN15-s.p.c51c6e03.woff2"
+    ],
+    "[project]/app/tariffs/page": [
+      "static/media/yMJRMIlzdpvBhQQL_Qq7dy1biN15-s.p.c51c6e03.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

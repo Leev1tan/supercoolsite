@@ -1,134 +1,63 @@
 ﻿// app/components/ConnectModal.tsx
-"use client";
+import { useState } from 'react';
+import { useRouter } from 'next/router';
 
-import { useState } from "react";
-import { motion } from "framer-motion";
+export default function ConnectModal() {
+  const router = useRouter();
+  const [isOpen, setIsOpen] = useState(false);
+  const [formData, setFormData] = useState({});
 
-type ConnectModalProps = {
-    isOpen: boolean;
-    onCloseAction: () => void;
-    defaultTown?: string;
-    defaultTariff?: string;
-};
+  const handleSubmit = async () => {
+    try {
+      const response = await fetch('/api/connect', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData),
+      });
+      if (response.ok) {
+        const data = await response.json();
+        // Handle success (e.g., show confirmation)
+        console.log('Form submitted successfully:', data);
+      } else {
+        throw new Error('Form submission failed');
+      }
+    } catch (error) {
+      console.error('Error submitting form:', error);
+      // Handle error (e.g., show error message)
+    }
+  };
 
-const backdropVariants = {
-    visible: { opacity: 1 },
-    hidden: { opacity: 0 },
-};
+  return (
+    <>
+      {/* Modal trigger button */}
+      <button onClick={() => setIsOpen(true)}>Connect</button>
 
-const modalVariants = {
-    hidden: { y: "-100vh", opacity: 0 },
-    visible: {
-        y: "0",
-        opacity: 1,
-        transition: { delay: 0.2 },
-    },
-};
-
-export default function ConnectModal({
-    isOpen,
-    onCloseAction,
-    defaultTown,
-    defaultTariff,
-}: ConnectModalProps) {
-    const [firstName, setFirstName] = useState("");
-    const [lastName, setLastName] = useState("");
-    const [phone, setPhone] = useState("");
-    const [town, setTown] = useState(defaultTown || "");
-    const [tariff, setTariff] = useState(defaultTariff || "");
-
-    const handleSubmit = (e: React.FormEvent) => {
-        e.preventDefault();
-        console.log("Connect request:", {
-            firstName,
-            lastName,
-            phone,
-            town,
-            tariff,
-        });
-        onCloseAction();
-    };
-
-    if (!isOpen) return null;
-
-    return (
-        <motion.div
-            className="bg-black/60 fixed inset-0 z-50 flex items-center justify-center"
-            variants={backdropVariants}
-            initial="hidden"
-            animate="visible"
-            exit="hidden"
-            onClick={onCloseAction}
-        >
-            <motion.div
-                className="relative w-[90%] max-w-md rounded-lg bg-midnight p-6"
-                variants={modalVariants}
-                onClick={(e) => e.stopPropagation()}
-            >
-                <button
-                    className="absolute right-2 top-2 text-gray-300 hover:text-white"
-                    onClick={onCloseAction}
-                >
-                    &times;
-                </button>
-                <h2 className="mb-4 text-xl font-bold text-cyan-400">Connect</h2>
-                <form onSubmit={handleSubmit} className="space-y-3">
-                    <div>
-                        <label className="mb-1 block text-gray-300">First Name</label>
-                        <input
-                            type="text"
-                            className="w-full rounded border border-gray-600 bg-gray-800 px-3 py-2 text-white focus:outline-none"
-                            value={firstName}
-                            onChange={(e) => setFirstName(e.target.value)}
-                            required
-                        />
-                    </div>
-                    <div>
-                        <label className="mb-1 block text-gray-300">Last Name</label>
-                        <input
-                            type="text"
-                            className="w-full rounded border border-gray-600 bg-gray-800 px-3 py-2 text-white focus:outline-none"
-                            value={lastName}
-                            onChange={(e) => setLastName(e.target.value)}
-                            required
-                        />
-                    </div>
-                    <div>
-                        <label className="mb-1 block text-gray-300">Phone</label>
-                        <input
-                            type="text"
-                            className="w-full rounded border border-gray-600 bg-gray-800 px-3 py-2 text-white focus:outline-none"
-                            value={phone}
-                            onChange={(e) => setPhone(e.target.value)}
-                            required
-                        />
-                    </div>
-                    <div>
-                        <label className="mb-1 block text-gray-300">Town (optional)</label>
-                        <input
-                            type="text"
-                            className="w-full rounded border border-gray-600 bg-gray-800 px-3 py-2 text-white focus:outline-none"
-                            value={town}
-                            onChange={(e) => setTown(e.target.value)}
-                        />
-                    </div>
-                    <div>
-                        <label className="mb-1 block text-gray-300">Tariff (optional)</label>
-                        <input
-                            type="text"
-                            className="w-full rounded border border-gray-600 bg-gray-800 px-3 py-2 text-white focus:outline-none"
-                            value={tariff}
-                            onChange={(e) => setTariff(e.target.value)}
-                        />
-                    </div>
-                    <button
-                        type="submit"
-                        className="mt-2 w-full rounded bg-cyan-600 py-2 text-white hover:bg-cyan-500"
-                    >
-                        Submit
-                    </button>
-                </form>
-            </motion.div>
-        </motion.div>
-    );
+      {/* Modal */}
+      {isOpen && (
+        <div className="fixed top-0 left-0 w-full h-full bg-black bg-opacity-50 flex items-center justify-center">
+          <div className="bg-white p-8 rounded-lg shadow-lg">
+            <h2 className="text-2xl mb-4">Connect with Us</h2>
+            {/* Form inputs */}
+            <form onSubmit={handleSubmit}>
+              {/* Example: Input fields */}
+              <input
+                type="text"
+                placeholder="Name"
+                onChange={(e) => setFormData({ ...formData, name: e.target.value })}
+              />
+              <input
+                type="email"
+                placeholder="Email"
+                onChange={(e) => setFormData({ ...formData, email: e.target.value })}
+              />
+              <button type="submit">Submit</button>
+            </form>
+            <button onClick={() => setIsOpen(false)}>Close</button>
+          </div>
+        </div>
+      )}
+    </>
+  );
 }

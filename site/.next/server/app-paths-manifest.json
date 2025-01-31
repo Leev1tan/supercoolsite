@@ -1,12 +1,5 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/about/page": "app/about/page.js",
-  "/coverage/[town]/page": "app/coverage/[town]/page.js",
   "/page": "app/page.js",
-  "/coverage/page": "app/coverage/page.js",
-  "/services/page": "app/services/page.js",
-  "/services/additional/page": "app/services/additional/page.js",
   "/tariffs/page": "app/tariffs/page.js",
-  "/services/television/page": "app/services/television/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }

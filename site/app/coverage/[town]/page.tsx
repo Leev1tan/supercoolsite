@@ -1,21 +1,22 @@
-﻿// app/coverage/[town]/page.tsx
-
-import { coverageData, CoverageItem } from '../coverageData';
+﻿import { coverageData, CoverageItem } from '../coverageData';
 import Link from 'next/link';
-import { allTariffSets, TariffSet } from '../../tariffs/tariffData';
-import { useModal } from '../../components/ModalProvider';
+import { allTariffSets, TariffSet } from '@/app/tariffs/tariffData';
+import { useModal } from '@/app/components/ModalProvider';
 
 interface CoverageTownProps {
     params: { town: string };
 }
 
 export default function CoverageTownPage({ params }: CoverageTownProps) {
-    const { town } = params;
+    const townName = decodeURIComponent(params.town).toLowerCase();
     const coverageItem: CoverageItem | undefined = coverageData.find(
-        (c) => c.name.toLowerCase() === decodeURIComponent(town).toLowerCase()
+        (c) => c.name.toLowerCase() === townName
     );
 
-    const { openModal } = useModal();
+    // In a Client Component, you'd do: const { openModal } = useModal();
+    // But since this is a server component file by default, you can’t directly call useModal() here.
+    // Instead, you can transform this into a client component or handle the connect differently.
+    // If you want client-based modals, do "use client" at the top & import your hooks.
 
     if (!coverageItem) {
         return (
@@ -25,54 +26,52 @@ export default function CoverageTownPage({ params }: CoverageTownProps) {
         );
     }
 
-    // Find corresponding tariff sets
+    // Filter tariffs by matching coverage name:
     const relevantTariffSets: TariffSet[] = allTariffSets.filter((set) =>
-        set.locationNames.some(
-            (location) => location.toLowerCase() === coverageItem.name.toLowerCase()
-        )
+        set.locationName.toLowerCase().includes(coverageItem.name.toLowerCase())
     );
 
     return (
         <section className="mt-8 space-y-4">
             <h1 className="text-3xl font-bold text-cyan-400">{coverageItem.name}</h1>
             <p className="text-gray-300">Region: {coverageItem.region}</p>
-            <div className="space-y-6">
-                {relevantTariffSets.length > 0 ? (
-                    relevantTariffSets.map((set) => (
-                        <div key={set.id} className="glass-panel p-4">
-                            <h2 className="mb-2 text-xl font-bold text-white">
-                                Tariffs for {set.locationNames.join(', ')}
-                            </h2>
-                            <div className="flex flex-col gap-2">
-                                {set.plans.map((plan, idx) => (
-                                    <div key={idx} className="bg-black/40 rounded-md p-3">
-                                        <div className="flex items-center justify-between">
-                                            <span className="text-gray-200">{plan.speed}</span>
-                                            <span className="font-medium text-pink-300">
-                                                {plan.price} грн / місяць
-                                            </span>
-                                        </div>
-                                        {plan.isUnlimited && (
-                                            <p className="text-sm text-gray-400">Безлім</p>
-                                        )}
-                                        <button
-                                            className="mt-2 rounded bg-cyan-600 px-3 py-1 text-white transition hover:bg-cyan-500"
-                                            onClick={() => openModal({ town: coverageItem.name })}
-                                        >
-                                            ПІДКЛЮЧИТИ
-                                        </button>
+
+            {relevantTariffSets.length > 0 ? (
+                relevantTariffSets.map((set) => (
+                    <div key={set.id} className="glass-panel space-y-3 p-4">
+                        <h2 className="mb-2 text-xl font-bold text-white">
+                            Tariffs for {set.locationName}
+                        </h2>
+                        <div className="flex flex-col gap-2">
+                            {set.plans.map((plan, idx) => (
+                                <div key={idx} className="bg-black/40 rounded-md p-3">
+                                    <div className="flex items-center justify-between">
+                                        <span className="text-gray-200">{plan.speed}</span>
+                                        <span className="font-medium text-pink-300">
+                                            {plan.price} грн/міс
+                                        </span>
                                     </div>
-                                ))}
-                            </div>
+                                    {plan.isUnlimited && (
+                                        <p className="text-sm text-gray-400">Безлім</p>
+                                    )}
+                                    {/* You’d need a client component or a special approach to openModal here */}
+                                    <button
+                                        className="mt-2 rounded bg-cyan-600 px-3 py-1 text-white transition hover:bg-cyan-500"
+                                    // onClick={() => openModal({ town: coverageItem.name })}
+                                    >
+                                        ПІДКЛЮЧИТИ
+                                    </button>
+                                </div>
+                            ))}
                         </div>
-                    ))
-                ) : (
-                    <p className="text-gray-300">
-                        No specific tariffs available for this town. Please check our main
-                        Tariffs page.
-                    </p>
-                )}
-            </div>
+                    </div>
+                ))
+            ) : (
+                <p className="text-gray-300">
+                    No specific tariffs available for this town. Please check our main Tariffs page.
+                </p>
+            )}
+
             <Link
                 href="/tariffs"
                 className="inline-block rounded bg-pink-600 px-4 py-2 text-white transition hover:bg-pink-500"

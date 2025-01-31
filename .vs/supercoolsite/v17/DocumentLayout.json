@@ -3,91 +3,163 @@
   "WorkspaceRootPath": "F:\\ispsite\\supercoolsite\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\tariffs\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\tariffs\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\tariffs\\tariffData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\tariffs\\tariffData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\services\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\services\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\coverage\\[town]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\coverage\\[town]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\coverage\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\coverage\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\coverage\\CoverageClient.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\coverage\\CoverageClient.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\coverage\\CoverageMap.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\coverage\\CoverageMap.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\coverage\\coverageData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\coverage\\coverageData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\components\\ModalProvider.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\components\\ModalProvider.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\components\\ConnectModal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\components\\ConnectModal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\api\\connect\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\api\\connect\\route.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\about\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\about\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\not-found.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\not-found.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\next.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\next.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|F:\\ispsite\\supercoolsite\\site\\tailwind.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|site\\site.njsproj|solutionrelative:site\\tailwind.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VisualStudio\\v17.0\\Node.js Tools\\Microsoft.NodejsToolsV2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\not-found.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\not-found.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\ConnectModal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\components\\ConnectModal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\about\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\about\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\coverageData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\coverage\\coverageData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\coverageData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\coverage\\coverageData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\not-found.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\not-found.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\tariffs\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\about\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\about\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\coverage\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\CoverageClient.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\coverage\\CoverageClient.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\[town]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\coverage\\[town]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\CoverageClient.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\coverage\\CoverageClient.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\ConnectModal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\components\\ConnectModal.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\additional\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\services\\additional\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\layout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\television\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\services\\television\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\services\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\services\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\television\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\services\\television\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\tariffs\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\additional\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\services\\additional\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\coverage\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\[town]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\coverage\\[town]\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\CoverageMap.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\coverage\\CoverageMap.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\tariffData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\tariffs\\tariffData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\tariffData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\tariffs\\tariffData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\map.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\coverage\\map.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\TariffsClient.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\tariffs\\TariffsClient.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\CoverageMap.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\coverage\\CoverageMap.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\AnimatedWrapper.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\components\\AnimatedWrapper.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\ModalProvider.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\components\\ModalProvider.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\ModalProvider.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\components\\ModalProvider.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\map.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\coverage\\map.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\TariffsClient.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\tariffs\\TariffsClient.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\AnimatedWrapper.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\components\\AnimatedWrapper.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\page.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E78D9619-011E-4014-8759-0948D3C0E6C5}|supercoolsite\\supercoolsite.njsproj|solutionrelative:supercoolsite\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\ispsite\\supercoolsite\\supercoolsite\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:supercoolsite\\app\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -100,126 +172,345 @@
           "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "page.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\tariffs\\page.tsx",
+              "RelativeDocumentMoniker": "site\\app\\tariffs\\page.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\tariffs\\page.tsx",
+              "RelativeToolTip": "site\\app\\tariffs\\page.tsx",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:36:17.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tariffData.ts",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\tariffs\\tariffData.ts",
+              "RelativeDocumentMoniker": "site\\app\\tariffs\\tariffData.ts",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\tariffs\\tariffData.ts",
+              "RelativeToolTip": "site\\app\\tariffs\\tariffData.ts",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:35:57.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "page.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\services\\page.tsx",
+              "RelativeDocumentMoniker": "site\\app\\services\\page.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\services\\page.tsx",
+              "RelativeToolTip": "site\\app\\services\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:35:45.805Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "not-found.tsx",
-              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\not-found.tsx",
-              "RelativeDocumentMoniker": "supercoolsite\\app\\not-found.tsx",
-              "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\not-found.tsx",
-              "RelativeToolTip": "supercoolsite\\app\\not-found.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Title": "page.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\coverage\\[town]\\page.tsx",
+              "RelativeDocumentMoniker": "site\\app\\coverage\\[town]\\page.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\coverage\\[town]\\page.tsx",
+              "RelativeToolTip": "site\\app\\coverage\\[town]\\page.tsx",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwFMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-30T11:45:58.677Z",
+              "WhenOpened": "2025-01-31T12:35:31.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "page.tsx",
-              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\about\\page.tsx",
-              "RelativeDocumentMoniker": "supercoolsite\\app\\about\\page.tsx",
-              "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\about\\page.tsx",
-              "RelativeToolTip": "supercoolsite\\app\\about\\page.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\coverage\\page.tsx",
+              "RelativeDocumentMoniker": "site\\app\\coverage\\page.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\coverage\\page.tsx",
+              "RelativeToolTip": "site\\app\\coverage\\page.tsx",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-30T11:45:36.896Z",
+              "WhenOpened": "2025-01-31T12:34:23.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "coverageData.ts",
-              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\coverageData.ts",
-              "RelativeDocumentMoniker": "supercoolsite\\app\\coverage\\coverageData.ts",
-              "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\coverageData.ts",
-              "RelativeToolTip": "supercoolsite\\app\\coverage\\coverageData.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "DocumentIndex": 6,
+              "Title": "CoverageClient.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\coverage\\CoverageClient.tsx",
+              "RelativeDocumentMoniker": "site\\app\\coverage\\CoverageClient.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\coverage\\CoverageClient.tsx",
+              "RelativeToolTip": "site\\app\\coverage\\CoverageClient.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-17T09:50:26.727Z",
+              "WhenOpened": "2025-01-31T12:34:14.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoverageMap.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\coverage\\CoverageMap.tsx",
+              "RelativeDocumentMoniker": "site\\app\\coverage\\CoverageMap.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\coverage\\CoverageMap.tsx",
+              "RelativeToolTip": "site\\app\\coverage\\CoverageMap.tsx",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:33:28.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "coverageData.ts",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\coverage\\coverageData.ts",
+              "RelativeDocumentMoniker": "site\\app\\coverage\\coverageData.ts",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\coverage\\coverageData.ts",
+              "RelativeToolTip": "site\\app\\coverage\\coverageData.ts",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:32:02.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModalProvider.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\components\\ModalProvider.tsx",
+              "RelativeDocumentMoniker": "site\\app\\components\\ModalProvider.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\components\\ModalProvider.tsx",
+              "RelativeToolTip": "site\\app\\components\\ModalProvider.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:31:45.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConnectModal.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\components\\ConnectModal.tsx",
+              "RelativeDocumentMoniker": "site\\app\\components\\ConnectModal.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\components\\ConnectModal.tsx",
+              "RelativeToolTip": "site\\app\\components\\ConnectModal.tsx",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAmwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:31:33.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "globals.css",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\globals.css",
+              "RelativeDocumentMoniker": "site\\app\\globals.css",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\globals.css",
+              "RelativeToolTip": "site\\app\\globals.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-31T12:29:37.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "route.ts",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\api\\connect\\route.ts",
+              "RelativeDocumentMoniker": "site\\app\\api\\connect\\route.ts",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\api\\connect\\route.ts",
+              "RelativeToolTip": "site\\app\\api\\connect\\route.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:31:20.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "page.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\about\\page.tsx",
+              "RelativeDocumentMoniker": "site\\app\\about\\page.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\about\\page.tsx",
+              "RelativeToolTip": "site\\app\\about\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:30:30.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "not-found.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\not-found.tsx",
+              "RelativeDocumentMoniker": "site\\app\\not-found.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\not-found.tsx",
+              "RelativeToolTip": "site\\app\\not-found.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:30:23.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "page.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\page.tsx",
+              "RelativeDocumentMoniker": "site\\app\\page.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\page.tsx",
+              "RelativeToolTip": "site\\app\\page.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:30:14.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "layout.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\app\\layout.tsx",
+              "RelativeDocumentMoniker": "site\\app\\layout.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\app\\layout.tsx",
+              "RelativeToolTip": "site\\app\\layout.tsx",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:30:03.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "next.config.ts",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\next.config.ts",
+              "RelativeDocumentMoniker": "site\\next.config.ts",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\next.config.ts",
+              "RelativeToolTip": "site\\next.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:29:24.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "tailwind.config.ts",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\site\\tailwind.config.ts",
+              "RelativeDocumentMoniker": "site\\tailwind.config.ts",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\site\\tailwind.config.ts",
+              "RelativeToolTip": "site\\tailwind.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-31T12:29:03.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "not-found.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\not-found.tsx",
+              "RelativeDocumentMoniker": "supercoolsite\\app\\not-found.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\not-found.tsx",
+              "RelativeToolTip": "supercoolsite\\app\\not-found.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-30T11:45:58.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "page.tsx",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\about\\page.tsx",
+              "RelativeDocumentMoniker": "supercoolsite\\app\\about\\page.tsx",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\about\\page.tsx",
+              "RelativeToolTip": "supercoolsite\\app\\about\\page.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-30T11:45:36.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "coverageData.ts",
+              "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\coverageData.ts",
+              "RelativeDocumentMoniker": "supercoolsite\\app\\coverage\\coverageData.ts",
+              "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\coverageData.ts",
+              "RelativeToolTip": "supercoolsite\\app\\coverage\\coverageData.ts",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-17T09:50:26.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "page.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\page.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\tariffs\\page.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\page.tsx",
               "RelativeToolTip": "supercoolsite\\app\\tariffs\\page.tsx",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-13T11:59:48.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "page.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\page.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\coverage\\page.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\page.tsx",
               "RelativeToolTip": "supercoolsite\\app\\coverage\\page.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-13T12:11:16.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "tailwind.config.js",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\tailwind.config.js",
               "RelativeDocumentMoniker": "supercoolsite\\tailwind.config.js",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\tailwind.config.js",
               "RelativeToolTip": "supercoolsite\\tailwind.config.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2025-01-13T11:54:58.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 25,
               "Title": "CoverageClient.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\CoverageClient.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\coverage\\CoverageClient.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\CoverageClient.tsx",
               "RelativeToolTip": "supercoolsite\\app\\coverage\\CoverageClient.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-14T13:13:36.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:13:36.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 26,
               "Title": "ConnectModal.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\ConnectModal.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\components\\ConnectModal.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\ConnectModal.tsx",
               "RelativeToolTip": "supercoolsite\\app\\components\\ConnectModal.tsx",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-14T13:07:52.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:07:52.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 27,
               "Title": "layout.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\layout.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\layout.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\layout.tsx",
               "RelativeToolTip": "supercoolsite\\app\\layout.tsx",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAiwEUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-13T11:50:30.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:50:30.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
               "Title": "Microsoft.NodejsToolsV2.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VisualStudio\\v17.0\\Node.js Tools\\Microsoft.NodejsToolsV2.targets",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VisualStudio\\v17.0\\Node.js Tools\\Microsoft.NodejsToolsV2.targets",
@@ -230,145 +521,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 28,
               "Title": "page.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\page.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\services\\page.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\page.tsx",
               "RelativeToolTip": "supercoolsite\\app\\services\\page.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-17T09:52:18.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 29,
               "Title": "page.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\television\\page.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\services\\television\\page.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\television\\page.tsx",
               "RelativeToolTip": "supercoolsite\\app\\services\\television\\page.tsx",
-              "ViewState": "AQIAADoAAAAAAAAAAAA2wFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-17T09:53:09.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 30,
               "Title": "page.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\additional\\page.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\services\\additional\\page.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\services\\additional\\page.tsx",
               "RelativeToolTip": "supercoolsite\\app\\services\\additional\\page.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-17T09:55:42.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
               "Title": "page.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\[town]\\page.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\coverage\\[town]\\page.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\[town]\\page.tsx",
               "RelativeToolTip": "supercoolsite\\app\\coverage\\[town]\\page.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-17T09:59:57.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "tariffData.ts",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\tariffData.ts",
               "RelativeDocumentMoniker": "supercoolsite\\app\\tariffs\\tariffData.ts",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\tariffData.ts",
               "RelativeToolTip": "supercoolsite\\app\\tariffs\\tariffData.ts",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-17T09:40:31.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 33,
               "Title": "map.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\map.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\coverage\\map.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\map.tsx",
               "RelativeToolTip": "supercoolsite\\app\\coverage\\map.tsx",
-              "ViewState": "AQIAACMAAAAAAAAAAAAQwA0AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-14T10:52:45.747Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 34,
               "Title": "CoverageMap.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\CoverageMap.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\coverage\\CoverageMap.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\coverage\\CoverageMap.tsx",
               "RelativeToolTip": "supercoolsite\\app\\coverage\\CoverageMap.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-14T14:53:07.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 35,
               "Title": "AnimatedWrapper.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\AnimatedWrapper.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\components\\AnimatedWrapper.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\AnimatedWrapper.tsx",
               "RelativeToolTip": "supercoolsite\\app\\components\\AnimatedWrapper.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-14T14:06:45.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 36,
               "Title": "ModalProvider.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\ModalProvider.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\components\\ModalProvider.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\components\\ModalProvider.tsx",
               "RelativeToolTip": "supercoolsite\\app\\components\\ModalProvider.tsx",
-              "ViewState": "AQIAABwAAAAAAAAAAAAmwDIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-14T13:07:42.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 37,
               "Title": "TariffsClient.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\TariffsClient.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\tariffs\\TariffsClient.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\tariffs\\TariffsClient.tsx",
               "RelativeToolTip": "supercoolsite\\app\\tariffs\\TariffsClient.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-14T13:02:39.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 38,
               "Title": "page.tsx",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\page.tsx",
               "RelativeDocumentMoniker": "supercoolsite\\app\\page.tsx",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\page.tsx",
               "RelativeToolTip": "supercoolsite\\app\\page.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-01-13T11:58:25.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 39,
               "Title": "globals.css",
               "DocumentMoniker": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\globals.css",
               "RelativeDocumentMoniker": "supercoolsite\\app\\globals.css",
               "ToolTip": "F:\\ispsite\\supercoolsite\\supercoolsite\\app\\globals.css",
               "RelativeToolTip": "supercoolsite\\app\\globals.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-01-13T11:55:19.786Z"
             }

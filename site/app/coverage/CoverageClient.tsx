@@ -1,5 +1,4 @@
-﻿// app/coverage/CoverageClient.tsx
-"use client";
+﻿"use client";
 
 import { useRouter } from "next/navigation";
 import { useModal } from "@/app/components/ModalProvider";
@@ -25,8 +24,7 @@ export default function CoverageClient({ coverageList }: { coverageList: Coverag
                         >
                             <div className="flex items-center justify-between">
                                 <span className="text-lg font-medium">
-                                    {town.name}{" "}
-                                    <span className="text-sm text-gray-400">({town.region})</span>
+                                    {town.name} <span className="text-sm text-gray-400">({town.region})</span>
                                 </span>
                                 <div className="flex gap-2">
                                     <button
