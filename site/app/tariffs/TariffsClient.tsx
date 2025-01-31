@@ -1,4 +1,4 @@
-﻿// app/tariffs/TariffsClient.tsx
+// app/tariffs/TariffsClient.tsx
 "use client"
 
 import { useSearchParams } from 'next/navigation'

@@ -1,7 +1,7 @@
 // app/tariffs/tariffData.ts
 
 export type TariffPlan = {
-    speed: string;        // e.g. "до 50 Мбіт/с"
+    speed: string;        // e.g. "РґРѕ 50 РњР±С–С‚/СЃ"
     isUnlimited: boolean;
     price: number;        // e.g. 250
 };
@@ -16,29 +16,29 @@ export type TariffSet = {
 export const allTariffSets: TariffSet[] = [
     {
         id: "Barsik",
-        locationName: "Баришівка (Багатоповерхові будинки)",
+        locationName: "Р‘Р°СЂРёС€С–РІРєР° (Р‘Р°РіР°С‚РѕРїРѕРІРµСЂС…РѕРІС– Р±СѓРґРёРЅРєРё)",
         plans: [
-            { speed: "до 50 Мбіт/с", isUnlimited: true, price: 180 },
-            { speed: "до 100 Мбіт/с", isUnlimited: true, price: 210 },
-            { speed: "до 1 Гбіт/с", isUnlimited: true, price: 300 },
+            { speed: "РґРѕ 50 РњР±С–С‚/СЃ", isUnlimited: true, price: 180 },
+            { speed: "РґРѕ 100 РњР±С–С‚/СЃ", isUnlimited: true, price: 210 },
+            { speed: "РґРѕ 1 Р“Р±С–С‚/СЃ", isUnlimited: true, price: 300 },
         ],
     },
     {
         id: "BarCom",
-        locationName: "Баришівка (Приватні будинки)",
+        locationName: "Р‘Р°СЂРёС€С–РІРєР° (РџСЂРёРІР°С‚РЅС– Р±СѓРґРёРЅРєРё)",
         plans: [
-            { speed: "до 50 Мбіт/с", isUnlimited: true, price: 250 },
-            { speed: "до 100 Мбіт/с", isUnlimited: true, price: 280 },
-            { speed: "до 1 Гбіт/с", isUnlimited: true, price: 350 },
+            { speed: "РґРѕ 50 РњР±С–С‚/СЃ", isUnlimited: true, price: 250 },
+            { speed: "РґРѕ 100 РњР±С–С‚/СЃ", isUnlimited: true, price: 280 },
+            { speed: "РґРѕ 1 Р“Р±С–С‚/СЃ", isUnlimited: true, price: 350 },
         ],
     },
     {
         id: "Rudik",
-        locationName: "с. Аркадіївка",
-        region: "Київська область",
+        locationName: "СЃ. РђСЂРєР°РґС–С—РІРєР°",
+        region: "РљРёС—РІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ",
         plans: [
-            { speed: "до 100 Мбіт/с", isUnlimited: true, price: 350 },
-            { speed: "до 1 Гбіт/с", isUnlimited: true, price: 460 },
+            { speed: "РґРѕ 100 РњР±С–С‚/СЃ", isUnlimited: true, price: 350 },
+            { speed: "РґРѕ 1 Р“Р±С–С‚/СЃ", isUnlimited: true, price: 460 },
         ],
     },
 ];

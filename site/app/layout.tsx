@@ -1,4 +1,4 @@
-﻿import './globals.css';
+import './globals.css';
 import type { Metadata } from 'next';
 import { Orbitron } from 'next/font/google';
 import ModalProvider from './components/ModalProvider';

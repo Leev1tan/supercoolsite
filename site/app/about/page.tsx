@@ -9,7 +9,7 @@ export default function AboutPage() {
                 and growth in the local communities.
             </p>
             <p className="text-gray-300">
-                Whether it’s high-speed fiber for large residential
+                Whether it's high-speed fiber for large residential
                 buildings, stable broadband for private households, or special
                 packages for business customers, Baryshivka.Net has you covered.
             </p>
